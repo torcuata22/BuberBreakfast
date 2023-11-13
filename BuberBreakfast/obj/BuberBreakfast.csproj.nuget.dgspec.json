@@ -4,14 +4,14 @@
     "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj": {}
   },
   "projects": {
-    "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj": {
+    "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
-        "projectName": "BuberBreakfast",
-        "projectPath": "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
+        "projectUniqueName": "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj",
+        "projectName": "BuberBreakfast.Contracts",
+        "projectPath": "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj",
         "packagesPath": "/Users/marilynmarquez/.nuget/packages/",
-        "outputPath": "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/",
+        "outputPath": "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marilynmarquez/.nuget/NuGet/NuGet.Config"
@@ -38,16 +38,64 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.13, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
             }
           },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
+        "projectName": "BuberBreakfast",
+        "projectPath": "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
+        "packagesPath": "/Users/marilynmarquez/.nuget/packages/",
+        "outputPath": "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marilynmarquez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj": {
+                "projectPath": "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",

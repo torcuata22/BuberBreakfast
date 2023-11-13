@@ -5,17 +5,11 @@
 /Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/bin/Debug/net7.0/BuberBreakfast.runtimeconfig.json
 /Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/bin/Debug/net7.0/BuberBreakfast.dll
 /Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/bin/Debug/net7.0/BuberBreakfast.pdb
-/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
-/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/bin/Debug/net7.0/Microsoft.OpenApi.dll
-/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/BuberBreakfast.csproj.AssemblyReference.cache
 /Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/BuberBreakfast.GeneratedMSBuildEditorConfig.editorconfig
 /Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/BuberBreakfast.AssemblyInfoInputs.cache
 /Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/BuberBreakfast.AssemblyInfo.cs
 /Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/BuberBreakfast.csproj.CoreCompileInputs.cache
-/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/BuberBreakfast.MvcApplicationPartsAssemblyInfo.cs
 /Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/BuberBreakfast.MvcApplicationPartsAssemblyInfo.cache
 /Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/staticwebassets/msbuild.BuberBreakfast.Microsoft.AspNetCore.StaticWebAssets.props
 /Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/staticwebassets/msbuild.build.BuberBreakfast.props
@@ -31,3 +25,5 @@
 /Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/BuberBreakfast.pdb
 /Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/BuberBreakfast.genruntimeconfig.cache
 /Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/ref/BuberBreakfast.dll
+/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/bin/Debug/net7.0/BuberBreakfast.Contracts.dll
+/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/bin/Debug/net7.0/BuberBreakfast.Contracts.pdb

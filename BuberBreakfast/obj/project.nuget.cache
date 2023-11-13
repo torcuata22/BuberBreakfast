@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V36ceRtn84sPLt8NgV5Q89VqWzIv5OBLI5Br2vFVk4K8+a863rP1RO/itm+N+zyI7QT28NHvxhNiUI7mEKFB9g==",
+  "dgSpecHash": "eqrs2uYuvTv/93LD4Imju0xRjZ9MFlwjXIvmwgLM4wXC09fZYicM24sxIvv5gRUq9O4pqqOoxUKOF62gTS+7Zw==",
   "success": true,
   "projectFilePath": "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
-  "expectedPackageFiles": [
-    "/Users/marilynmarquez/.nuget/packages/microsoft.aspnetcore.openapi/7.0.13/microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
-    "/Users/marilynmarquez/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "/Users/marilynmarquez/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
-    "/Users/marilynmarquez/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "/Users/marilynmarquez/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "/Users/marilynmarquez/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/Users/marilynmarquez/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
