@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marilynmarquez/Desktop/webster/c#/BuberBReakfast/BuberBreakfast/BuberBreakfast.csproj": {}
+    "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj": {}
   },
   "projects": {
-    "/Users/marilynmarquez/Desktop/webster/c#/BuberBReakfast/BuberBreakfast/BuberBreakfast.csproj": {
+    "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marilynmarquez/Desktop/webster/c#/BuberBReakfast/BuberBreakfast/BuberBreakfast.csproj",
+        "projectUniqueName": "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
         "projectName": "BuberBreakfast",
-        "projectPath": "/Users/marilynmarquez/Desktop/webster/c#/BuberBReakfast/BuberBreakfast/BuberBreakfast.csproj",
+        "projectPath": "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
         "packagesPath": "/Users/marilynmarquez/.nuget/packages/",
-        "outputPath": "/Users/marilynmarquez/Desktop/webster/c#/BuberBReakfast/BuberBreakfast/obj/",
+        "outputPath": "/Users/marilynmarquez/Desktop/webster/c#/BuberBreakfast/BuberBreakfast/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marilynmarquez/.nuget/NuGet/NuGet.Config"
